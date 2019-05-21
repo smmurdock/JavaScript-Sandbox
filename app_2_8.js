@@ -1,3 +1,5 @@
+// TEMPLATE LITERALS
+
 const name = "John";
 const age = 31;
 const job = "Web Developer";

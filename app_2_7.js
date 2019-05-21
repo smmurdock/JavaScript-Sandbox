@@ -1,3 +1,5 @@
+// STRING METHODS & CONCATENATION
+
 const firstName = "Shanay";
 const lastName = "Murdock";
 const age = 29;

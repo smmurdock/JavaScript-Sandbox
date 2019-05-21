@@ -1,3 +1,5 @@
+// OBJECT LITERALS
+
 const person = {
   firstName: "Shanay",
   lastName: "Smith",
@@ -35,5 +37,5 @@ const people = [
 ];
 
 for (let i = 0; i < people.length; i++) {
-  console.log(people[i], name);
+  console.log(people[i].name);
 }

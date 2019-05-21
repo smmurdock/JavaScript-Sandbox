@@ -1,3 +1,5 @@
+// DATA TYPES IN JAVASCRIPT
+
 // **Primitive Data Types**
 // Stored directly in the location the variable accesses
 // Stored on the stack

@@ -1,3 +1,5 @@
+// USING THE CONSOLE
+
 // Log to console from .js
 console.log("Hello World");
 console.log(123);
